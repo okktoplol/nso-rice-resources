@@ -1,0 +1,1 @@
+# nso-rice-resources
