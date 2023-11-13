@@ -1,5 +1,7 @@
 # Ricing Open-Shell
 
+![result](https://i.imgur.com/Lwxw3Ew.png)
+
 ## HOW TO:
 - Install the latest [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu/releases/)
 - Check "Show all settings"
