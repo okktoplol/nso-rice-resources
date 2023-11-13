@@ -24,3 +24,5 @@
 - Set Override Glass Color to EDD8EF
 
 ![override glass color](https://i.imgur.com/YeAU0eM.png)
+
+#### Change and experiment with the other settings!
