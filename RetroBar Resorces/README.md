@@ -1,5 +1,7 @@
 # RetroBar nso theme by okk
 
+![result](https://i.imgur.com/OWVvdpB.png)
+
 ## HOW TO:
 - Install the latest [RetroBar](https://github.com/dremin/RetroBar/releases/);
 - Install the [Zpix font](https://github.com/okklol/nso-rice-resources/blob/main/common/zpix.ttf) and patch your system wide font with it by running [font.reg](https://github.com/okklol/nso-rice-resources/blob/main/common/font.reg) - **This will replace your system wide font**
